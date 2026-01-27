@@ -1,6 +1,6 @@
 # JavaScript Technical Documentation Page
 
-##  Project Description
+## Project Description
 
 This project is a **simple technical documentation page** built using **HTML and CSS**.  
 It follows the common structure of real documentation sites such as **JavaScript, Python, Java, and Arduino docs**, with a left navigation bar and content displayed on the right.
@@ -9,14 +9,14 @@ This project is designed for beginners who want to practice **HTML structure, CS
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 
 ---
 
-##  Folder Structure
+## Folder Structure
 
 project-folder/
 ├── index.html
@@ -28,7 +28,7 @@ Copy code
 
 ---
 
-##  Features
+## Features
 
 - Left-side navigation menu
 - Internal linking using anchor tags
@@ -39,7 +39,7 @@ Copy code
 
 ---
 
-##  Sample Documentation Topics
+## Sample Documentation Topics
 
 - Introduction
 - What is JavaScript?
@@ -52,7 +52,7 @@ Copy code
 
 ---
 
-##  Responsiveness
+## Responsiveness
 
 - Fully responsive on desktop, tablet, and mobile devices
 - Navigation adapts properly on smaller screens
@@ -60,7 +60,7 @@ Copy code
 
 ---
 
-##  Scrollable Content
+## Scrollable Content
 
 - The documentation content area is scrollable
 - Navigation remains accessible for easy section switching
@@ -77,7 +77,7 @@ This improves visual separation and readability.
 
 ---
 
-##  Project Checks
+## Project Checks
 
 - ✔ Is the folder structure correct? **Yes**
 - ✔ Are all linter tests passing? **Yes**
@@ -90,7 +90,7 @@ This improves visual separation and readability.
 
 ---
 
-##  How to Run the Project
+## How to Run the Project
 
 1. Download or clone the repository
 2. Open `index.html` in your web browser
@@ -98,7 +98,7 @@ This improves visual separation and readability.
 
 ---
 
-##  Learning Objectives
+## Learning Objectives
 
 - Understand technical documentation structure
 - Practice internal page linking
@@ -107,7 +107,7 @@ This improves visual separation and readability.
 
 ---
 
-##  Future Improvements
+## Future Improvements
 
 - Add smooth scrolling
 - Expand documentation hierarchy
@@ -116,7 +116,7 @@ This improves visual separation and readability.
 
 ---
 
-##  Conclusion
+## Conclusion
 
 This project provides a solid foundation for building professional technical documentation pages using HTML and CSS.  
 It is a great starting point for beginners in web development.
